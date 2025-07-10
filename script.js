@@ -1,3 +1,3 @@
 function greet() {
-  alert("You're unemployed!");
+  alert("You clicked it, 0 patience level");
 }
